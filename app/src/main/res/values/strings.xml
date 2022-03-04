@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="new_here_create_account">New Here?Create Account</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact_number">Contact number</string>
+    <string name="register">REGISTER</string>
+    <string name="already_signed_in_login_here">Already signed in? Login Here</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="phone">phone</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">LOGOUT</string>
+</resources>
